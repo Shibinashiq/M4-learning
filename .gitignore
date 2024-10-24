@@ -5,7 +5,7 @@ __pycache__/
 # Virtual environment directory
 venv/
 ENV/
-
+.vscode/
 # IDE configuration files
 .idea/
 *.sublime-workspace
